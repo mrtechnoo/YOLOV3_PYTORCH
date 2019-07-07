@@ -1,5 +1,5 @@
 # YOLOV3_PYTORCH
-Implementing YOLOv3 using Pythorch 
+Implementing YOLOv3 using Pytorch 
 
 
 Download the Weights here -> https://pjreddie.com/darknet/yolo/
